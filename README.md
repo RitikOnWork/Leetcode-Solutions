@@ -8,13 +8,13 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | Metric | Count | Distribution |
 | :--- | :---: | :--- |
-| **Total Solved** | **1** | 🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡 |
-| 🟢 **Easy** | `0` | `0%` |
-| 🟡 **Medium** | `1` | `100%` |
+| **Total Solved** | **1** | 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 |
+| 🟢 **Easy** | `1` | `100%` |
+| 🟡 **Medium** | `0` | `0%` |
 | 🔴 **Hard** | `0` | `0%` |
 
 - **Languages Used**: C++
-- **Latest Sync**: **3299 - Find the Maximum Number of Elements in Subset** (C++) at *Jun 27, 2026, 08:24 PM*
+- **Latest Sync**: **0001 - Two Sum** (C++) at *Jun 27, 2026, 10:02 PM*
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | ID | Title | Difficulty | Solutions |
 | :---: | :--- | :---: | :--- |
-| 3299 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | `Medium` | [C++](./LeetCode/Medium/3299_Find_the_Maximum_Number_of_Elements_in_Subset.cpp) |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | [C++](./LeetCode/0001_Two_Sum/solution.cpp) |
 
 ---
 
