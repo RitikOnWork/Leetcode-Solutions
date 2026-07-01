@@ -8,13 +8,13 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | Metric | Count | Distribution |
 | :--- | :---: | :--- |
-| **Total Solved** | **7** | 🟢🟢🟢🟢🟢🟢🟡🟡🟡🟡 |
-| 🟢 **Easy** | `4` | `57%` |
-| 🟡 **Medium** | `3` | `43%` |
+| **Total Solved** | **8** | 🟢🟢🟢🟢🟢🟢🟡🟡🟡🟡 |
+| 🟢 **Easy** | `5` | `63%` |
+| 🟡 **Medium** | `3` | `38%` |
 | 🔴 **Hard** | `0` | `0%` |
 
 - **Languages Used**: C++, Pandas
-- **Latest Sync**: **2914 - Find the Safest Path in a Grid** (C++) at *Jul 1, 2026, 12:49 PM*
+- **Latest Sync**: **1878 - Check if Array Is Sorted and Rotated** (C++) at *Jul 1, 2026, 09:38 PM*
 
 ---
 
@@ -26,6 +26,7 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 | 0830 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | `Easy` | [C++](./LeetCode/0830_Largest_Triangle_Area/solution.cpp) |
 | 1460 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | `Medium` | [C++](./LeetCode/1460_Number_of_Substrings_Containing_All_Three_Characters/solution.cpp) |
 | 1625 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | `Easy` | [Pandas](./LeetCode/1625_Group_Sold_Products_By_The_Date/solution.txt) |
+| 1878 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | `Easy` | [C++](./LeetCode/1878_Check_if_Array_Is_Sorted_and_Rotated/solution.cpp) |
 | 1956 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | `Medium` | [C++](./LeetCode/1956_Maximum_Element_After_Decreasing_and_Rearranging/solution.cpp) |
 | 2099 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | `Easy` | [C++](./LeetCode/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word/solution.cpp) |
 | 2914 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | `Medium` | [C++](./LeetCode/2914_Find_the_Safest_Path_in_a_Grid/solution.cpp) |
