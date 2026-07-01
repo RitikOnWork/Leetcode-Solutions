@@ -8,13 +8,13 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | Metric | Count | Distribution |
 | :--- | :---: | :--- |
-| **Total Solved** | **6** | 🟢🟢🟢🟢🟢🟢🟢🟡🟡🟡 |
-| 🟢 **Easy** | `4` | `67%` |
-| 🟡 **Medium** | `2` | `33%` |
+| **Total Solved** | **7** | 🟢🟢🟢🟢🟢🟢🟡🟡🟡🟡 |
+| 🟢 **Easy** | `4` | `57%` |
+| 🟡 **Medium** | `3` | `43%` |
 | 🔴 **Hard** | `0` | `0%` |
 
 - **Languages Used**: C++, Pandas
-- **Latest Sync**: **1460 - Number of Substrings Containing All Three Characters** (C++) at *Jun 30, 2026, 12:20 PM*
+- **Latest Sync**: **2914 - Find the Safest Path in a Grid** (C++) at *Jul 1, 2026, 12:49 PM*
 
 ---
 
@@ -28,6 +28,7 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 | 1625 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | `Easy` | [Pandas](./LeetCode/1625_Group_Sold_Products_By_The_Date/solution.txt) |
 | 1956 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | `Medium` | [C++](./LeetCode/1956_Maximum_Element_After_Decreasing_and_Rearranging/solution.cpp) |
 | 2099 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | `Easy` | [C++](./LeetCode/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word/solution.cpp) |
+| 2914 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | `Medium` | [C++](./LeetCode/2914_Find_the_Safest_Path_in_a_Grid/solution.cpp) |
 
 ---
 
