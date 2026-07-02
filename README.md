@@ -8,13 +8,13 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | Metric | Count | Distribution |
 | :--- | :---: | :--- |
-| **Total Solved** | **9** | 🟢🟢🟢🟢🟢🟢🟡🟡🟡🟡 |
-| 🟢 **Easy** | `5` | `56%` |
-| 🟡 **Medium** | `4` | `44%` |
+| **Total Solved** | **10** | 🟢🟢🟢🟢🟢🟢🟡🟡🟡🟡 |
+| 🟢 **Easy** | `6` | `60%` |
+| 🟡 **Medium** | `4` | `40%` |
 | 🔴 **Hard** | `0` | `0%` |
 
 - **Languages Used**: C++, Pandas
-- **Latest Sync**: **3558 - Find a Safe Walk Through a Grid** (C++) at *Jul 2, 2026, 11:13 AM*
+- **Latest Sync**: **0026 - Remove Duplicates from Sorted Array** (C++) at *Jul 2, 2026, 12:39 PM*
 
 ---
 
@@ -23,6 +23,7 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 | ID | Title | Difficulty | Solutions |
 | :---: | :--- | :---: | :--- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | [C++](./LeetCode/0001_Two_Sum/solution.cpp) |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Easy` | [C++](./LeetCode/0026_Remove_Duplicates_from_Sorted_Array/solution.cpp) |
 | 0830 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | `Easy` | [C++](./LeetCode/0830_Largest_Triangle_Area/solution.cpp) |
 | 1460 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | `Medium` | [C++](./LeetCode/1460_Number_of_Substrings_Containing_All_Three_Characters/solution.cpp) |
 | 1625 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | `Easy` | [Pandas](./LeetCode/1625_Group_Sold_Products_By_The_Date/solution.txt) |
