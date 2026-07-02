@@ -8,13 +8,13 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | Metric | Count | Distribution |
 | :--- | :---: | :--- |
-| **Total Solved** | **12** | 🟢🟢🟢🟢🟢🟢🟡🟡🟡🟡 |
-| 🟢 **Easy** | `7` | `58%` |
-| 🟡 **Medium** | `5` | `42%` |
+| **Total Solved** | **13** | 🟢🟢🟢🟢🟢🟢🟡🟡🟡🟡 |
+| 🟢 **Easy** | `8` | `62%` |
+| 🟡 **Medium** | `5` | `38%` |
 | 🔴 **Hard** | `0` | `0%` |
 
-- **Languages Used**: C++, Pandas
-- **Latest Sync**: **0283 - Move Zeroes** (C++) at *Jul 2, 2026, 01:09 PM*
+- **Languages Used**: C++, MySQL, Pandas
+- **Latest Sync**: **0620 - Not Boring Movies** (MySQL) at *Jul 2, 2026, 10:03 PM*
 
 ---
 
@@ -26,6 +26,7 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Easy` | [C++](./LeetCode/0026_Remove_Duplicates_from_Sorted_Array/solution.cpp) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | `Medium` | [C++](./LeetCode/0189_Rotate_Array/solution.cpp) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Easy` | [C++](./LeetCode/0283_Move_Zeroes/solution.cpp) |
+| 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | `Easy` | [MySQL](./LeetCode/0620_Not_Boring_Movies/solution.txt) |
 | 0830 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | `Easy` | [C++](./LeetCode/0830_Largest_Triangle_Area/solution.cpp) |
 | 1460 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | `Medium` | [C++](./LeetCode/1460_Number_of_Substrings_Containing_All_Three_Characters/solution.cpp) |
 | 1625 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | `Easy` | [Pandas](./LeetCode/1625_Group_Sold_Products_By_The_Date/solution.txt) |
