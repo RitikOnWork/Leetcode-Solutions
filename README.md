@@ -8,13 +8,13 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | Metric | Count | Distribution |
 | :--- | :---: | :--- |
-| **Total Solved** | **14** | 🟢🟢🟢🟢🟢🟡🟡🟡🟡🔴 |
-| 🟢 **Easy** | `8` | `57%` |
-| 🟡 **Medium** | `5` | `36%` |
+| **Total Solved** | **15** | 🟢🟢🟢🟢🟢🟢🟡🟡🟡🔴 |
+| 🟢 **Easy** | `9` | `60%` |
+| 🟡 **Medium** | `5` | `33%` |
 | 🔴 **Hard** | `1` | `7%` |
 
 - **Languages Used**: C++, MySQL, Pandas
-- **Latest Sync**: **3919 - Network Recovery Pathways** (C++) at *Jul 3, 2026, 12:00 PM*
+- **Latest Sync**: **0485 - Max Consecutive Ones** (C++) at *Jul 3, 2026, 12:21 PM*
 
 ---
 
@@ -26,6 +26,7 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Easy` | [C++](./LeetCode/0026_Remove_Duplicates_from_Sorted_Array/solution.cpp) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | `Medium` | [C++](./LeetCode/0189_Rotate_Array/solution.cpp) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Easy` | [C++](./LeetCode/0283_Move_Zeroes/solution.cpp) |
+| 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | `Easy` | [C++](./LeetCode/0485_Max_Consecutive_Ones/solution.cpp) |
 | 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | `Easy` | [MySQL](./LeetCode/0620_Not_Boring_Movies/solution.txt) |
 | 0830 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | `Easy` | [C++](./LeetCode/0830_Largest_Triangle_Area/solution.cpp) |
 | 1460 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | `Medium` | [C++](./LeetCode/1460_Number_of_Substrings_Containing_All_Three_Characters/solution.cpp) |
