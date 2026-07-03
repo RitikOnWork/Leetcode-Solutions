@@ -8,13 +8,13 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | Metric | Count | Distribution |
 | :--- | :---: | :--- |
-| **Total Solved** | **13** | 🟢🟢🟢🟢🟢🟢🟡🟡🟡🟡 |
-| 🟢 **Easy** | `8` | `62%` |
-| 🟡 **Medium** | `5` | `38%` |
-| 🔴 **Hard** | `0` | `0%` |
+| **Total Solved** | **14** | 🟢🟢🟢🟢🟢🟡🟡🟡🟡🔴 |
+| 🟢 **Easy** | `8` | `57%` |
+| 🟡 **Medium** | `5` | `36%` |
+| 🔴 **Hard** | `1` | `7%` |
 
 - **Languages Used**: C++, MySQL, Pandas
-- **Latest Sync**: **0620 - Not Boring Movies** (MySQL) at *Jul 2, 2026, 10:03 PM*
+- **Latest Sync**: **3919 - Network Recovery Pathways** (C++) at *Jul 3, 2026, 12:00 PM*
 
 ---
 
@@ -35,6 +35,7 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 | 2099 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | `Easy` | [C++](./LeetCode/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word/solution.cpp) |
 | 2914 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | `Medium` | [C++](./LeetCode/2914_Find_the_Safest_Path_in_a_Grid/solution.cpp) |
 | 3558 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | `Medium` | [C++](./LeetCode/3558_Find_a_Safe_Walk_Through_a_Grid/solution.cpp) |
+| 3919 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | `Hard` | [C++](./LeetCode/3919_Network_Recovery_Pathways/solution.cpp) |
 
 ---
 
