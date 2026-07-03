@@ -66,7 +66,7 @@ You must implement a solution with a linear runtime complexity and use only cons
 | Language        | C++                     |
 | Runtime         | 0 ms                    |
 | Beats           | 100.00%                    |
-| Memory          | 20.6 MB                    |
+| Memory          | 20.5 MB                    |
 | Memory Beats    | 83.55%                    |
 | Submission Date | Jul 3, 2026 |
 
