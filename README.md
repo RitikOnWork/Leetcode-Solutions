@@ -8,13 +8,13 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | Metric | Count | Distribution |
 | :--- | :---: | :--- |
-| **Total Solved** | **15** | 🟢🟢🟢🟢🟢🟢🟡🟡🟡🔴 |
-| 🟢 **Easy** | `9` | `60%` |
-| 🟡 **Medium** | `5` | `33%` |
-| 🔴 **Hard** | `1` | `7%` |
+| **Total Solved** | **16** | 🟢🟢🟢🟢🟢🟢🟡🟡🟡🔴 |
+| 🟢 **Easy** | `10` | `63%` |
+| 🟡 **Medium** | `5` | `31%` |
+| 🔴 **Hard** | `1` | `6%` |
 
 - **Languages Used**: C++, MySQL, Pandas
-- **Latest Sync**: **0485 - Max Consecutive Ones** (C++) at *Jul 3, 2026, 12:21 PM*
+- **Latest Sync**: **0136 - Single Number** (C++) at *Jul 3, 2026, 12:31 PM*
 
 ---
 
@@ -24,6 +24,7 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 | :---: | :--- | :---: | :--- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | [C++](./LeetCode/0001_Two_Sum/solution.cpp) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Easy` | [C++](./LeetCode/0026_Remove_Duplicates_from_Sorted_Array/solution.cpp) |
+| 0136 | [Single Number](https://leetcode.com/problems/single-number/) | `Easy` | [C++](./LeetCode/0136_Single_Number/solution.cpp) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | `Medium` | [C++](./LeetCode/0189_Rotate_Array/solution.cpp) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Easy` | [C++](./LeetCode/0283_Move_Zeroes/solution.cpp) |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | `Easy` | [C++](./LeetCode/0485_Max_Consecutive_Ones/solution.cpp) |
