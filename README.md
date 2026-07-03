@@ -8,13 +8,13 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | Metric | Count | Distribution |
 | :--- | :---: | :--- |
-| **Total Solved** | **16** | 🟢🟢🟢🟢🟢🟢🟡🟡🟡🔴 |
-| 🟢 **Easy** | `10` | `63%` |
-| 🟡 **Medium** | `5` | `31%` |
+| **Total Solved** | **17** | 🟢🟢🟢🟢🟢🟡🟡🟡🟡🔴 |
+| 🟢 **Easy** | `10` | `59%` |
+| 🟡 **Medium** | `6` | `35%` |
 | 🔴 **Hard** | `1` | `6%` |
 
 - **Languages Used**: C++, MySQL, Pandas
-- **Latest Sync**: **0136 - Single Number** (C++) at *Jul 3, 2026, 12:31 PM*
+- **Latest Sync**: **0075 - Sort Colors** (C++) at *Jul 3, 2026, 01:48 PM*
 
 ---
 
@@ -24,6 +24,7 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 | :---: | :--- | :---: | :--- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | [C++](./LeetCode/0001_Two_Sum/solution.cpp) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Easy` | [C++](./LeetCode/0026_Remove_Duplicates_from_Sorted_Array/solution.cpp) |
+| 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | `Medium` | [C++](./LeetCode/0075_Sort_Colors/solution.cpp) |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | `Easy` | [C++](./LeetCode/0136_Single_Number/solution.cpp) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | `Medium` | [C++](./LeetCode/0189_Rotate_Array/solution.cpp) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Easy` | [C++](./LeetCode/0283_Move_Zeroes/solution.cpp) |
