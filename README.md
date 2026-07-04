@@ -8,13 +8,13 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | Metric | Count | Distribution |
 | :--- | :---: | :--- |
-| **Total Solved** | **17** | 🟢🟢🟢🟢🟢🟡🟡🟡🟡🔴 |
-| 🟢 **Easy** | `10` | `59%` |
-| 🟡 **Medium** | `6` | `35%` |
+| **Total Solved** | **18** | 🟢🟢🟢🟢🟢🟡🟡🟡🟡🔴 |
+| 🟢 **Easy** | `10` | `56%` |
+| 🟡 **Medium** | `7` | `39%` |
 | 🔴 **Hard** | `1` | `6%` |
 
 - **Languages Used**: C++, MySQL, Pandas
-- **Latest Sync**: **0075 - Sort Colors** (C++) at *Jul 3, 2026, 01:48 PM*
+- **Latest Sync**: **2582 - Minimum Score of a Path Between Two Cities** (C++) at *Jul 4, 2026, 12:41 PM*
 
 ---
 
@@ -36,6 +36,7 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 | 1878 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | `Easy` | [C++](./LeetCode/1878_Check_if_Array_Is_Sorted_and_Rotated/solution.cpp) |
 | 1956 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | `Medium` | [C++](./LeetCode/1956_Maximum_Element_After_Decreasing_and_Rearranging/solution.cpp) |
 | 2099 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | `Easy` | [C++](./LeetCode/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word/solution.cpp) |
+| 2582 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | `Medium` | [C++](./LeetCode/2582_Minimum_Score_of_a_Path_Between_Two_Cities/solution.cpp) |
 | 2914 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | `Medium` | [C++](./LeetCode/2914_Find_the_Safest_Path_in_a_Grid/solution.cpp) |
 | 3558 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | `Medium` | [C++](./LeetCode/3558_Find_a_Safe_Walk_Through_a_Grid/solution.cpp) |
 | 3919 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | `Hard` | [C++](./LeetCode/3919_Network_Recovery_Pathways/solution.cpp) |
