@@ -8,13 +8,13 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | Metric | Count | Distribution |
 | :--- | :---: | :--- |
-| **Total Solved** | **18** | 🟢🟢🟢🟢🟢🟡🟡🟡🟡🔴 |
-| 🟢 **Easy** | `10` | `56%` |
-| 🟡 **Medium** | `7` | `39%` |
-| 🔴 **Hard** | `1` | `6%` |
+| **Total Solved** | **1** | 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴 |
+| 🟢 **Easy** | `0` | `0%` |
+| 🟡 **Medium** | `0` | `0%` |
+| 🔴 **Hard** | `1` | `100%` |
 
-- **Languages Used**: C++, MySQL, Pandas
-- **Latest Sync**: **2582 - Minimum Score of a Path Between Two Cities** (C++) at *Jul 4, 2026, 12:41 PM*
+- **Languages Used**: C++
+- **Latest Sync**: **1234 - Number of Paths with Max Score** (C++) at *Jul 5, 2026, 12:47 PM*
 
 ---
 
@@ -22,24 +22,7 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | ID | Title | Difficulty | Solutions |
 | :---: | :--- | :---: | :--- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | [C++](./LeetCode/0001_Two_Sum/solution.cpp) |
-| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Easy` | [C++](./LeetCode/0026_Remove_Duplicates_from_Sorted_Array/solution.cpp) |
-| 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | `Medium` | [C++](./LeetCode/0075_Sort_Colors/solution.cpp) |
-| 0136 | [Single Number](https://leetcode.com/problems/single-number/) | `Easy` | [C++](./LeetCode/0136_Single_Number/solution.cpp) |
-| 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | `Medium` | [C++](./LeetCode/0189_Rotate_Array/solution.cpp) |
-| 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Easy` | [C++](./LeetCode/0283_Move_Zeroes/solution.cpp) |
-| 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | `Easy` | [C++](./LeetCode/0485_Max_Consecutive_Ones/solution.cpp) |
-| 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | `Easy` | [MySQL](./LeetCode/0620_Not_Boring_Movies/solution.txt) |
-| 0830 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | `Easy` | [C++](./LeetCode/0830_Largest_Triangle_Area/solution.cpp) |
-| 1460 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | `Medium` | [C++](./LeetCode/1460_Number_of_Substrings_Containing_All_Three_Characters/solution.cpp) |
-| 1625 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | `Easy` | [Pandas](./LeetCode/1625_Group_Sold_Products_By_The_Date/solution.txt) |
-| 1878 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | `Easy` | [C++](./LeetCode/1878_Check_if_Array_Is_Sorted_and_Rotated/solution.cpp) |
-| 1956 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | `Medium` | [C++](./LeetCode/1956_Maximum_Element_After_Decreasing_and_Rearranging/solution.cpp) |
-| 2099 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | `Easy` | [C++](./LeetCode/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word/solution.cpp) |
-| 2582 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | `Medium` | [C++](./LeetCode/2582_Minimum_Score_of_a_Path_Between_Two_Cities/solution.cpp) |
-| 2914 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | `Medium` | [C++](./LeetCode/2914_Find_the_Safest_Path_in_a_Grid/solution.cpp) |
-| 3558 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | `Medium` | [C++](./LeetCode/3558_Find_a_Safe_Walk_Through_a_Grid/solution.cpp) |
-| 3919 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | `Hard` | [C++](./LeetCode/3919_Network_Recovery_Pathways/solution.cpp) |
+| 1234 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | `Hard` | [C++](./LeetCode/1234_Number_of_Paths_with_Max_Score/solution.cpp) |
 
 ---
 
