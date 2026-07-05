@@ -8,13 +8,13 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | Metric | Count | Distribution |
 | :--- | :---: | :--- |
-| **Total Solved** | **1** | 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴 |
-| 🟢 **Easy** | `0` | `0%` |
+| **Total Solved** | **2** | 🟢🟢🟢🟢🟢🔴🔴🔴🔴🔴 |
+| 🟢 **Easy** | `1` | `50%` |
 | 🟡 **Medium** | `0` | `0%` |
-| 🔴 **Hard** | `1` | `100%` |
+| 🔴 **Hard** | `1` | `50%` |
 
 - **Languages Used**: C++
-- **Latest Sync**: **1234 - Number of Paths with Max Score** (C++) at *Jul 5, 2026, 12:47 PM*
+- **Latest Sync**: **0169 - Majority Element** (C++) at *Jul 5, 2026, 08:46 PM*
 
 ---
 
@@ -22,6 +22,7 @@ Welcome to my automatically synchronized LeetCode solutions repository! This das
 
 | ID | Title | Difficulty | Solutions |
 | :---: | :--- | :---: | :--- |
+| 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | `Easy` | [C++](./LeetCode/0169_Majority_Element/solution.cpp) |
 | 1234 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | `Hard` | [C++](./LeetCode/1234_Number_of_Paths_with_Max_Score/solution.cpp) |
 
 ---
