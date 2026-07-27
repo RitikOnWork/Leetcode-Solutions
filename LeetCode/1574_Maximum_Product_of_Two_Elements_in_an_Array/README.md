@@ -55,9 +55,9 @@ Given the array of integers `nums`, you will choose two different indices `i` an
 | Language        | C++                     |
 | Runtime         | 0 ms                    |
 | Beats           | 100.00%                    |
-| Memory          | 13.3 MB                    |
-| Memory Beats    | 99.02%                    |
-| Submission Date | Jul 15, 2026 |
+| Memory          | 13.4 MB                    |
+| Memory Beats    | 60.75%                    |
+| Submission Date | Jul 27, 2026 |
 
 ---
 
