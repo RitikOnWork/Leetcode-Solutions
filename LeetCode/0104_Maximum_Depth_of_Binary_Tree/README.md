@@ -51,8 +51,8 @@ A binary tree's **maximum depth** is the number of nodes along the longest path 
 | Runtime         | 0 ms                    |
 | Beats           | 100.00%                    |
 | Memory          | 22.2 MB                    |
-| Memory Beats    | 11.90%                    |
-| Submission Date | Jul 26, 2026 |
+| Memory Beats    | 61.50%                    |
+| Submission Date | Sep 24, 2026 |
 
 ---
 
