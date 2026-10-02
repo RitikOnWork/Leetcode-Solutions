@@ -43,11 +43,11 @@ Given `n` pairs of parentheses, write a function to *generate all combinations o
 | Problem ID      | 0022                    |
 | Difficulty      | Medium                    |
 | Language        | C++                     |
-| Runtime         | 4 ms                    |
-| Beats           | 31.48%                    |
-| Memory          | 15.7 MB                    |
-| Memory Beats    | 51.17%                    |
-| Submission Date | Aug 27, 2026 |
+| Runtime         | 3 ms                    |
+| Beats           | 67.20%                    |
+| Memory          | 15.6 MB                    |
+| Memory Beats    | 47.96%                    |
+| Submission Date | Oct 2, 2026 |
 
 ---
 
