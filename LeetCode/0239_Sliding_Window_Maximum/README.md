@@ -57,11 +57,11 @@ Window position                Max
 | --------------- | ----------------------- |
 | Problem ID      | 0239                    |
 | Difficulty      | Hard                    |
-| Language        | Java                     |
-| Runtime         | 30 ms                    |
-| Beats           | 68.86%                    |
-| Memory          | 146.4 MB                    |
-| Memory Beats    | 50.88%                    |
+| Language        | C++                     |
+| Runtime         | 20 ms                    |
+| Beats           | 70.32%                    |
+| Memory          | 134.6 MB                    |
+| Memory Beats    | 96.89%                    |
 | Submission Date | Oct 19, 2026 |
 
 ---
@@ -70,7 +70,7 @@ Window position                Max
 
 The actual code is stored in:
 
-[solution.java](solution.java)
+[solution.cpp](solution.cpp)
 
 ---
 
