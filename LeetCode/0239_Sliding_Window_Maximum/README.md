@@ -58,10 +58,10 @@ Window position                Max
 | Problem ID      | 0239                    |
 | Difficulty      | Hard                    |
 | Language        | Java                     |
-| Runtime         | 31 ms                    |
-| Beats           | 46.83%                    |
-| Memory          | 143 MB                    |
-| Memory Beats    | 95.45%                    |
+| Runtime         | 30 ms                    |
+| Beats           | 68.86%                    |
+| Memory          | 146.4 MB                    |
+| Memory Beats    | 50.88%                    |
 | Submission Date | Oct 19, 2026 |
 
 ---
@@ -100,7 +100,7 @@ The actual code is stored in:
 
 ## 📈 Complexity
 
-* **Time Complexity:** O(n)
+* **Time Complexity:** O(n²)
 * **Space Complexity:** O(n)
 
 ---
