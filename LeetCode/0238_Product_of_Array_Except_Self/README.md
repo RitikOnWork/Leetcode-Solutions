@@ -55,11 +55,11 @@ You must write an algorithm that runs in `O(n)` time and without using the divis
 | Problem ID      | 0238                    |
 | Difficulty      | Medium                    |
 | Language        | C++                     |
-| Runtime         | 0 ms                    |
-| Beats           | 100.00%                    |
-| Memory          | 40.3 MB                    |
-| Memory Beats    | 61.35%                    |
-| Submission Date | Jul 21, 2026 |
+| Runtime         | 2 ms                    |
+| Beats           | 47.25%                    |
+| Memory          | 40.2 MB                    |
+| Memory Beats    | 78.04%                    |
+| Submission Date | Nov 2, 2026 |
 
 ---
 
