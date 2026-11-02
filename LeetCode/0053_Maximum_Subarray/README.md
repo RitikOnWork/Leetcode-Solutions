@@ -58,11 +58,11 @@ Given an integer array `nums`, find the <span data-keyword="subarray-nonempty">s
 | Problem ID      | 0053                    |
 | Difficulty      | Medium                    |
 | Language        | C++                     |
-| Runtime         | 0 ms                    |
-| Beats           | 100.00%                    |
-| Memory          | 71.6 MB                    |
-| Memory Beats    | 80.95%                    |
-| Submission Date | Jul 9, 2026 |
+| Runtime         | 1 ms                    |
+| Beats           | 29.72%                    |
+| Memory          | 71.5 MB                    |
+| Memory Beats    | 93.92%                    |
+| Submission Date | Nov 2, 2026 |
 
 ---
 
