@@ -74,11 +74,11 @@ The sum of `nums[0]` and `nums[1]` is `3 + 3 = 6`, which equals the target. Ther
 | Problem ID      | 0001                    |
 | Difficulty      | Easy                    |
 | Language        | C++                     |
-| Runtime         | 1 ms                    |
-| Beats           | 83.38%                    |
+| Runtime         | 2 ms                    |
+| Beats           | 74.67%                    |
 | Memory          | 14.7 MB                    |
-| Memory Beats    | 56.75%                    |
-| Submission Date | Nov 4, 2026 |
+| Memory Beats    | 55.45%                    |
+| Submission Date | Nov 19, 2026 |
 
 ---
 
