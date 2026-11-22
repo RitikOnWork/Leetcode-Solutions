@@ -65,9 +65,9 @@ You must do it [in place](https://en.wikipedia.org/wiki/In-place_algorithm).
 | Language        | C++                     |
 | Runtime         | 0 ms                    |
 | Beats           | 100.00%                    |
-| Memory          | 21.2 MB                    |
-| Memory Beats    | 17.12%                    |
-| Submission Date | Aug 30, 2026 |
+| Memory          | 21.1 MB                    |
+| Memory Beats    | 24.62%                    |
+| Submission Date | Nov 22, 2026 |
 
 ---
 
@@ -98,7 +98,7 @@ The actual code is stored in:
 
 ## 📈 Complexity
 
-* **Time Complexity:** O(n²)
+* **Time Complexity:** O(n)
 * **Space Complexity:** O(n)
 
 ---
