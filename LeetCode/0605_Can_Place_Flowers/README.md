@@ -51,11 +51,11 @@ Given an integer array `flowerbed` containing `0`'s and `1`'s, where `0` means e
 | Problem ID      | 0605                    |
 | Difficulty      | Easy                    |
 | Language        | C++                     |
-| Runtime         | 0 ms                    |
-| Beats           | 100.00%                    |
-| Memory          | 24 MB                    |
-| Memory Beats    | 77.63%                    |
-| Submission Date | Jul 16, 2026 |
+| Runtime         | 1 ms                    |
+| Beats           | 22.54%                    |
+| Memory          | 24.2 MB                    |
+| Memory Beats    | 27.77%                    |
+| Submission Date | Nov 27, 2026 |
 
 ---
 
