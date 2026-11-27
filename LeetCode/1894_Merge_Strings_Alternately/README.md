@@ -76,11 +76,11 @@ merged: a p b q c   d
 | Problem ID      | 1894                    |
 | Difficulty      | Easy                    |
 | Language        | C++                     |
-| Runtime         | 0 ms                    |
-| Beats           | 100.00%                    |
-| Memory          | 8.5 MB                    |
-| Memory Beats    | 31.73%                    |
-| Submission Date | Jul 17, 2026 |
+| Runtime         | 2 ms                    |
+| Beats           | 51.54%                    |
+| Memory          | 8.4 MB                    |
+| Memory Beats    | 48.56%                    |
+| Submission Date | Nov 27, 2026 |
 
 ---
 
