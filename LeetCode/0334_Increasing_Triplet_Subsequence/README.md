@@ -59,11 +59,11 @@ Return `true`* if there exists a triple of indices *`(i, j, k)`* such that *`i <
 | Problem ID      | 0334                    |
 | Difficulty      | Medium                    |
 | Language        | C++                     |
-| Runtime         | 1 ms                    |
-| Beats           | 56.47%                    |
+| Runtime         | 2 ms                    |
+| Beats           | 42.69%                    |
 | Memory          | 115.5 MB                    |
-| Memory Beats    | 89.89%                    |
-| Submission Date | Nov 3, 2026 |
+| Memory Beats    | 94.86%                    |
+| Submission Date | Nov 27, 2026 |
 
 ---
 
