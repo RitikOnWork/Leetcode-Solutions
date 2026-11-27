@@ -69,9 +69,9 @@ Kid 1 will always have the greatest number of candies, even if a different kid i
 | Language        | C++                     |
 | Runtime         | 0 ms                    |
 | Beats           | 100.00%                    |
-| Memory          | 12.5 MB                    |
-| Memory Beats    | 27.10%                    |
-| Submission Date | Jul 16, 2026 |
+| Memory          | 12.4 MB                    |
+| Memory Beats    | 84.01%                    |
+| Submission Date | Nov 27, 2026 |
 
 ---
 
