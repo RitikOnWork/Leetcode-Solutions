@@ -73,9 +73,9 @@ Given two strings `str1` and `str2`, return *the largest string *`x`* such that 
 | Language        | C++                     |
 | Runtime         | 0 ms                    |
 | Beats           | 100.00%                    |
-| Memory          | 9.8 MB                    |
-| Memory Beats    | 61.35%                    |
-| Submission Date | Jul 21, 2026 |
+| Memory          | 9.6 MB                    |
+| Memory Beats    | 66.86%                    |
+| Submission Date | Nov 27, 2026 |
 
 ---
 
@@ -91,6 +91,8 @@ The actual code is stored in:
 
 * Math
 * String
+* Euclidean Algorithm
+* Greatest Common Divisor
 
 ---
 
